@@ -10,7 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["jordanstory23@gmail.com"]
 
   spec.summary       = %q{A gem for generating tip calues based on a number of inputs.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/jstory23/tippy_jordan"
+  spec.license       = "MIT"
 
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
